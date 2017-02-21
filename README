@@ -1,1 +1,5 @@
 Titanic Decision Tree Survial Prediction Model
+
+This R script generates a pruned decision tree and a random forest model to predict passenger survial aboard the Titanic.
+
+Please check out jasontdean.com for more details. 
